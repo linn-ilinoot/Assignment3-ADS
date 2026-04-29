@@ -119,6 +119,6 @@ Binary Search compares the target value with the middle element. Based on whethe
 
 I learned that Quick Sort is much faster than Bubble Sort on large arrays. On size 1000, Quick Sort took about 225100 ns while Bubble Sort took 3787800 ns. Binary Search is very fast at around 1000-3000 ns. The worst-case performance of Quick Sort on sorted arrays was interesting to observe.
 
-## Screenshot
+## Screenshot (Run 3)
 
 <img width="1920" height="1080" alt="Снимок экрана 2026-04-30 013013" src="https://github.com/user-attachments/assets/fa429833-2bb5-4649-827e-3176ccbfbd24" />
