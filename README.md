@@ -121,5 +121,4 @@ I learned that Quick Sort is much faster than Bubble Sort on large arrays. On si
 
 ## Screenshot
 
-![results](<img width="1920" height="1080" alt="Снимок экрана 2026-04-30 013013" src="https://github.com/user-attachments/assets/fa429833-2bb5-4649-827e-3176ccbfbd24" />
-)
+<img width="1920" height="1080" alt="Снимок экрана 2026-04-30 013013" src="https://github.com/user-attachments/assets/fa429833-2bb5-4649-827e-3176ccbfbd24" />
